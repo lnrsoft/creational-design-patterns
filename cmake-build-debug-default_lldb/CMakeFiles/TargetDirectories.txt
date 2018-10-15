@@ -1,0 +1,3 @@
+/Users/rolandihasz/software_development/repository/creational-design-patterns/cmake-build-debug-default_lldb/CMakeFiles/rebuild_cache.dir
+/Users/rolandihasz/software_development/repository/creational-design-patterns/cmake-build-debug-default_lldb/CMakeFiles/edit_cache.dir
+/Users/rolandihasz/software_development/repository/creational-design-patterns/cmake-build-debug-default_lldb/CMakeFiles/builder.dir
