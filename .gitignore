@@ -160,5 +160,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-.cmake-build-debug-default_lldb
+cmake-build-debug-default_lldb
 .build
+.idea
